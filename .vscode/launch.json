@@ -24,10 +24,9 @@
             "mainClass": "Bill3",
             "projectName": "hw1-shiraz-naomi_c8337b3d",
             "args": [
-                "inon",
-                "shiraz",
-                "orit",
-                "45"
+                "argument1",
+                "another_argument",
+                "value for argument 3"
             ]
         },
         {

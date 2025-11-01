@@ -8,7 +8,7 @@ public class Bill3 {
 		double bill = Double.parseDouble(args[3]);
 		double amount = (double) Math.round(bill / 3);
 		// System.out.println(name1 + name2 + name3 + bill + amount);
-		System.out.println("datling " + name1 + ", " + name2 + " and " + name3 + ": pay " + amount + " Shekels each");
+		System.out.println("Dear " + name1 + ", " + name2 + " and " + name3 + ": pay " + amount + " Shekels each");
 
 	}
 }
